@@ -14,10 +14,10 @@
     <PackageReference Include="Azure.Communication.Identity" Version="1.0.0" />
     <PackageReference Include="Azure.Communication.Chat" Version="1.0.1" />
     <PackageReference Include="Azure.Communication.Common" Version="1.0.0" />
-    <PackageReference Include="Microsoft.Bot.Builder.AI.Luis" Version="4.13.1" />
-    <PackageReference Include="Microsoft.Bot.Builder.AI.Orchestrator" Version="4.13.1" />
-    <PackageReference Include="Microsoft.Bot.Builder.AI.QnA" Version="4.13.1" />
-    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.13.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.Luis" Version="4.13.2" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.Orchestrator" Version="4.13.2" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.QnA" Version="4.13.2" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.13.2" />
 <!--    <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime" Version="3.0.0" />
     <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring" Version="3.1.0" />-->
   </ItemGroup>
